@@ -1,2 +1,2 @@
 # EGATOR
-multipage demo educational website
+fully responsive multipage demo educational website
